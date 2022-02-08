@@ -11,5 +11,6 @@
 	-Certificar-se que possui o python instalado
 	-Abra o projeto em algum editor que rode projeto python
 	-Importe as bibliotecas do projeto: `pip install colorama` e `pip install stdiomask`
+	- dasd `pip install poetry`
 	-RUN!!
   
